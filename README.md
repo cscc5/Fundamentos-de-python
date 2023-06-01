@@ -1,3 +1,5 @@
+# Fundamentos-de-python
+
 Hola mi nombre es Critian Colorado y hoy te doy la bienvenida a esta breve guia para aprender python de y para quienes no tenmos grandes conocimientos sobre programación.
 
 **Material de la guia:**
@@ -12,4 +14,3 @@ Hola mi nombre es Critian Colorado y hoy te doy la bienvenida a esta breve guia 
 Para tener la mejor experiencia posible durante esta breve guía;abre y lee detalladamente el libro "prueba.ipynb", una vez tengas todo los bloques OK, procede abrir, leer detalladamente y seguir la guia puesta en "fundamentos de python.ipynb".
 
 Te deseo buena suerte, aunque no la necesitarás; espero y sea de tu agrado 🤍🖤🤍
-
